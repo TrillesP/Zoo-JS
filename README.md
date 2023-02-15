@@ -1,5 +1,7 @@
 ## Scripts
 
+Primeiramente instale o Jest com o script `npm install --save-dev jest`
+
 Basta rodar `npm install` e depois `npm test` para rodar os testes.
 
 Também é possível utilizar `npm test -- --coverage` para ver a cobertura do teste.
